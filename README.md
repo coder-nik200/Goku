@@ -25,7 +25,6 @@ Browse DragonBall characters, see their stats, and search for your favorite figh
 * * *
 
 ## 🔗 Live Demo
--
 https://dragonball-beta.vercel.app/
 
 ## My Skills

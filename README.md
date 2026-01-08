@@ -1,5 +1,3 @@
-## About Me
-
 # 🐉ドラゴンボール
 
 ## “Unleash the power of the Dragon Balls and awaken your inner Saiyan!” 🐉✨
